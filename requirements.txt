@@ -1,4 +1,3 @@
-flask
 pdfplumber
 firebase-admin
-gunicorn
+Flask
